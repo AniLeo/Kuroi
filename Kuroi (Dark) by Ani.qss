@@ -35,7 +35,7 @@ Red
 
 /* Every widget */
 QWidget {
-	background-color: #333333;
+	background-color: #323232;
 	color: #e6e6e6;
 	alternate-background-color: #3d3d3d;
 }
